@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Configuration files for vim, bash, and OS X
+Configuration files for vim, bash, and OS X 
