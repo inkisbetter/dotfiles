@@ -1,8 +1,8 @@
 " basic stuff from the web
 set nocompatible
-set backspace=indent,eol,start
+" set backspace=indent,eol,start
 set autoindent 
-set history=1000
+set history=10000
 
 " visual goodies
 set ruler
@@ -38,7 +38,7 @@ map <Esc><Esc> :w<CR>
 " HTML preview in Safari 
 map <silent> <Leader>s :!open -a Safari %<CR><CR>
 
-" Spellcheck (!!!)
+" Spellcheck (awesome)
 setlocal spell spelllang=en_us
 
 " Break lines at word boundries 
